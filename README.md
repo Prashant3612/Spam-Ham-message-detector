@@ -11,6 +11,6 @@ This project is a machine learning-based spam or ham message detector. It classi
 - Prediction: Making predictions on new messages.
 
 
-
+***
 
 <sup>_Detect spam with confidence! 🚫📧_</sup> 
