@@ -13,4 +13,4 @@ This project is a machine learning-based spam or ham message detector. It classi
 
 ***
 
-<sup>_Detect spam with confidence! 🚫📧_</sup> 
+_Detect spam with confidence! 🚫📧_
